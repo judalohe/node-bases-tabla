@@ -1,0 +1,18 @@
+{
+  "name": "04-bases-node",
+  "version": "0.0.2",
+  "description": "Tabla de multiplicar con archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Multiplicacion"
+  ],
+  "author": "Juan López",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
